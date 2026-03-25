@@ -9,6 +9,7 @@ This project is a modified and extended version of the IBM Data Science Capstone
 In the commercial space industry, launch costs vary significantly across providers. While some companies offer competitive services, SpaceX has disrupted the market by reducing launch costs to approximately $62 million per Falcon 9 launch, compared to competitors that can exceed $165 million.
 
 <img width="975" height="544" alt="image" src="https://github.com/user-attachments/assets/bfb77357-d540-4471-a78e-848d704f2ff3" />
+Creative Commons Attribution-Share Alike 4.0 International.
 
 A key driver of this cost advantage is the reusability of the Falcon 9 rocket’s first stage. The first stage is the largest and most expensive part of the rocket, responsible for the majority of the thrust required during launch. After stage separation, the second stage (Stage 2) continues carrying the payload into orbit, while the first stage attempts to return and land vertically for potential reuse.
 
@@ -17,7 +18,8 @@ However, first stage recovery is not always successful. It may fail due to techn
 In this context, the business problem is to develop a data-driven approach to predict the likelihood of a successful first stage landing. By leveraging publicly available data and machine learning models, this project aims to provide insights that can help estimate launch costs and support competitive decision-making.
 
 ## Data Sources
-
+- SpaceX REST API <a href="URL_DESTINO">Texto del enlace</a>
+- Wikipedia launch records
 
 ## Methodology
 
